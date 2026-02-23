@@ -1,3 +1,9 @@
+## 📸 Dashboard Preview
+<img width="817" height="455" alt="Homepage" src="https://github.com/user-attachments/assets/f82c86b0-6723-4a62-aad8-b1586aae8a11" />
+<img width="935" height="533" alt="Dashboard" src="https://github.com/user-attachments/assets/c7c64a67-a0f5-49b9-a8f4-a39bcca02aa3" />
+<img width="928" height="519" alt="User Performance" src="https://github.com/user-attachments/assets/7fdfd519-a2a0-4531-9b1b-f579226a805e" />
+<img width="931" height="523" alt="City Performance" src="https://github.com/user-attachments/assets/8bda452a-fc69-40b2-9c7c-179af2aadec3" />
+
 # 🍽️ Zomato Sales Analysis Dashboard
 
 **Power BI | SQL | Excel | Data Analytics**
@@ -136,13 +142,8 @@ This section helps identify:
 * Supports operational planning by identifying high-demand cities
 * Improves visibility into customer retention and churn trends
 
----
 
-## 📸 Dashboard Preview
-<img width="817" height="455" alt="Homepage" src="https://github.com/user-attachments/assets/f82c86b0-6723-4a62-aad8-b1586aae8a11" />
-<img width="935" height="533" alt="Dashboard" src="https://github.com/user-attachments/assets/c7c64a67-a0f5-49b9-a8f4-a39bcca02aa3" />
-<img width="928" height="519" alt="User Performance" src="https://github.com/user-attachments/assets/7fdfd519-a2a0-4531-9b1b-f579226a805e" />
-<img width="931" height="523" alt="City Performance" src="https://github.com/user-attachments/assets/8bda452a-fc69-40b2-9c7c-179af2aadec3" />
+
 
 
 
